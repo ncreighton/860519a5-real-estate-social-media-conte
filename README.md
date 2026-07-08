@@ -1,2 +1,25 @@
-# 860519a5-real-estate-social-media-conte
-Professional real estate digital template — without the professional price tag.  Fully editable: every field, color, and section customizable. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Real Estate Social Media Content Template — fully configured and ready to use - Fully editable: all fields, c
+# Real Estate Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZufZh3aL1g0cVWbzScZH0m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZufZh3aL1g0cVWbzScZH0m)
+
